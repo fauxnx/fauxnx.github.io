@@ -1,0 +1,5 @@
+ErrorDocument 400 https://fauxnx.github.io/error.html
+ErrorDocument 401 https://fauxnx.github.io/error.html
+ErrorDocument 403 https://fauxnx.github.io/error.html
+ErrorDocument 404 https://fauxnx.github.io/error.html
+ErrorDocument 503 https://fauxnx.github.io/error.html
